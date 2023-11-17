@@ -33,6 +33,8 @@
       "modifiedby_task": "Modified By",
       "modifiedon": "Modified On",
       "modifiedonbehalfby_task": "Modified By (Delegate)",
+      "msdyn_msdyn_conversationactionitem_task_msdyn_createdactivity": "Conversation Action Items",
+      "msdyn_msdyn_salescopilotinsight_task_msdyn_activityid": "Sales Copilot Insights",
       "msdyn_task_msdyn_ocliveworkitem_msdyn_msdyn_routableobjectid": "Conversations",
       "msdyncrm_activityid": "ActivityId",
       "msdyncrm_associatedcustomerjourneyiteration_Task": "Customer journey iteration",

@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ImportExportXml version="9.2.23074.198" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ImportExportXml version="9.2.23103.244" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SolutionManifest>
     <UniqueName>AADevOpsDemoSolution</UniqueName>
     <LocalizedNames>
       <LocalizedName description="[AA] DevOps Demo Solution" languagecode="1033" />
     </LocalizedNames>
     <Descriptions />
-    <Version>1.0.0.5</Version>
+    <Version>1.0.0.6</Version>
     <Managed>2</Managed>
     <Publisher>
       <UniqueName>Aschi</UniqueName>
       <LocalizedNames>
-        <LocalizedName description="Aschi" languagecode="1033" />
+        <LocalizedName description="Andreas Aschauer" languagecode="1033" />
       </LocalizedNames>
       <Descriptions>
         <Description description="Aschi" languagecode="1033" />

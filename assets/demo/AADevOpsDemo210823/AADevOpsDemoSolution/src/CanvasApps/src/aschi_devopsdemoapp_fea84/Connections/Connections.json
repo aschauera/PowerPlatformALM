@@ -1,5 +1,13 @@
 {
   "2798af7f-2531-4718-831f-6cb92c4fbf31": {
+    "appActions": [
+      "CalendarGetTables",
+      "V2CalendarPostItem",
+      "GetRoomsInRoomList",
+      "FindMeetingTimes",
+      "GetRoomLists",
+      "GetRooms"
+    ],
     "connectionRef": {
       "apiTier": "Standard",
       "displayName": "Office 365 Outlook",
@@ -16,6 +24,9 @@
     "id": "2798af7f-2531-4718-831f-6cb92c4fbf31"
   },
   "ae928b5b-374e-4cbe-83bc-2d02d19020e0": {
+    "appActions": [
+      "SearchUser"
+    ],
     "connectionRef": {
       "apiTier": "Standard",
       "displayName": "Office 365 Users",
